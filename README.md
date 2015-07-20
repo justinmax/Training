@@ -15,3 +15,5 @@ Assessment Test
 - Post-Training test would be the deciding factor for a lot of things (Projects, confirmations.. etc)
 
 Please go through the project to find the relevent contents
+
+[Assessments](Assessment)
